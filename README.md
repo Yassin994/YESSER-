@@ -100,10 +100,10 @@ Get session id by (PAIRING CODE2)
 
 
 2. Now Deploy Botton Bot. 
-   <a href='https://dashboard.heroku.com/new?template=https://github.com/Fred1e/Fredi_Md' target="_blank"><img alt='Tap Deploy On Heroku Here' src='https://img.shields.io/badge/Deploy To Heroku Here-black?style=for-the-badge&logo=heroku&logoColor=purple'/></a>
+   <a href='https://dashboard.heroku.com/new?template=https://github.com/yassin994/YESSER-' target="_blank"><img alt='Tap Deploy On Heroku Here' src='https://img.shields.io/badge/Deploy To Heroku Here-black?style=for-the-badge&logo=heroku&logoColor=purple'/></a>
 
   3. Now Deploy Normal Bot.
-     <a href='https://dashboard.heroku.com/new?template=https://github.com/kingfredie/LUCKY_MD' target="_blank"><img alt='Tap Deploy On Heroku Here' src='https://img.shields.io/badge/Deploy To Heroku Here-black?style=for-the-badge&logo=heroku&logoColor=purple'/></a>
+     <a href='https://dashboard.heroku.com/new?template=https://github.com/yassin994/YESSER-MD' target="_blank"><img alt='Tap Deploy On Heroku Here' src='https://img.shields.io/badge/Deploy To Heroku Here-black?style=for-the-badge&logo=heroku&logoColor=purple'/></a>
 </details>
 
 
@@ -143,7 +143,7 @@ Get session id by (PAIRING CODE2)
    
   
 3. Now Deploy Button Bot. 
-  <a href='https://replit.com/github/Fred1e/Fredi_Md' target="_blank"><img alt='replit' src='https://img.shields.io/badge/DEPLOY ON REPLIT-black?style=for-the-badge&logo=replit&logoColor=orange'/></a>
+  <a href='https://replit.com/github/yassin994/YESSER-' target="_blank"><img alt='replit' src='https://img.shields.io/badge/DEPLOY ON REPLIT-black?style=for-the-badge&logo=replit&logoColor=orange'/></a>
 
   3. Now Deploy Normal Bot.
      <a href='https://replit.com/github/yassin994/YESSER-MD' target="_blank"><img alt='replit' src='https://img.shields.io/badge/DEPLOY ON REPLIT-black?style=for-the-badge&logo=replit&logoColor=orange'/></a>
@@ -157,7 +157,7 @@ Get session id by (PAIRING CODE2)
       5.After importing tap 👈 button down 👇 of replit dashboard. 
       6.Choose config.cjs file then put your session 🆔 and others you need. 
       7.Tap button written run to run your bot then go test it's work. 
-    THANK YOU FOR CHOOSING FREDI MD 
+    THANK YOU FOR CHOOSING ZOMBIE MD 
   </details>
 
 
