@@ -1,17 +1,17 @@
 
 {
-  "name": "Fredi-Md",
+  "name": "ZOMBIE-Md",
   "version": "10.8.1",
-  "description": "Fredi-Md latest multi device whatsapp bot",
+  "description": "ZOMBIE-Md latest multi device whatsapp bot",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name Fredi-Md",
-    "stop": "pm2 stop Fredi-Md",
-    "restart": "pm2 restart Fredi-Md"
+    "stop": "pm2 stop ZOMBIE-Md",
+    "restart": "pm2 restart ZOMBIE-Md"
   },
-  "keywords": ["Fredi-Md", "whatsapp-bot", "whatsapp md bot"],
-  "author": "FrediEzra",
+  "keywords": ["ZOMBIE-Md", "whatsapp-bot", "whatsapp md bot"],
+  "author": "yessertech",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
